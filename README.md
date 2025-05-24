@@ -45,6 +45,9 @@ source venv/bin/activate   # For macOS/Linux
 ```bash
 pip install -r requirements.txt
 ```
+4. **Install Dataset**:
+
+Download the intents.json available in Kaggle
 
 ---
 
