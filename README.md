@@ -27,8 +27,8 @@ This is an AI-powered chatbot built using deep learning techniques and deployed 
 
 1. **Clone the repository**:
 ```bash
-git clone https://github.com/your-username/AI-Chatbot.git
-cd AI-Chatbot
+git clone https://github.com/SyamPrasadThota/Health_Assistant_Chatbot.git
+cd Health_Assistant_Chatbot
 ````
 
 2. **Create a virtual environment**:
@@ -72,14 +72,13 @@ http://127.0.0.1:5000/
 ```
 AI-Chatbot/
 │
-├── app.py                     # Main Flask app
-├── chat_model.h5              # Trained intent recognition model
-├── intents.json               # Dataset of predefined intents/responses
-├── label_encoder.pkl          # Encoded labels for classification
-├── tokenizer.pkl              # Tokenizer for preprocessing
-├── Untitled.ipynb             # Jupyter Notebook (training/exploration)
+├── app.py                     
+├── chat_model.h5              
+├── intents.json               #You can downoad it from kaggle
+├── label_encoder.pkl          
+├── tokenizer.pkl            
 │
-├── templates/                 # HTML template(s)
+├── templates/                 
 │   └── index.html
 ```
 
